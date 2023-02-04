@@ -1,0 +1,34 @@
+img{
+    height: auto;
+    width: 300px;
+
+}
+
+h1, h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color:aqua;
+    text-shadow: 3px 3px violet;
+}
+body{
+    background-color: beige;
+}
+
+p1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: light;
+    color:rgb(255, 0, 144);
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+ul, ol{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color:rgb(0, 162, 255);
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
